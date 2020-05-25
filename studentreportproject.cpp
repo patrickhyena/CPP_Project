@@ -291,7 +291,7 @@ void class_result()
 	}
 	cout<<"\n\n\t\tALL STUDENT RESULTS \n\n";
 	cout<<"==========================================================\n";
-	cout<<"R.No       Name        P   C   M   E   CS   %age   Grade"<<endl;
+	cout<<"R.No       Name        P   C   M   E   CS   Avg   Grade"<<endl;
 	cout<<"==========================================================\n";
 	while(inFile.read(reinterpret_cast<char *> (&st), sizeof(student)))
 	{
