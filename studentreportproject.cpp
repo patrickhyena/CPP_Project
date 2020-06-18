@@ -333,7 +333,7 @@ void intro()
 	cout<<"\n\n\n\t\tStudent";
 	cout<<"\n\n\t\t Report";
 	cout<<"\n\n\t\tProject";
-	cout<<"\n\n\n\tMade by : Patrick Alvin and Dominico Savio";
+	cout<<"\n\n\n\tMade by : Patrick Alvin";
 	cout<<"\n\tBinus International University";
 	cin.get();
 }
